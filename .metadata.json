@@ -1,9 +1,5 @@
 [
   {
-    "package": "ascii",
-    "oncran": true
-  },
-  {
     "package": "brm",
     "oncran": true
   },
@@ -17,6 +13,10 @@
   },
   {
     "package": "rstpm2",
+    "oncran": true
+  },
+  {
+    "package": "ascii",
     "oncran": true
   }
 ]
