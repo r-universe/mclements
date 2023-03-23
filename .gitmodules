@@ -8,6 +8,11 @@
 	url = https://github.com/mclements/ascii
 	shallow = true
 	registered = true
+[submodule "biostat3"]
+	path = biostat3
+	url = https://github.com/cran/biostat3
+	shallow = true
+	registered = true
 [submodule "brm"]
 	path = brm
 	url = https://github.com/mclements/brm
@@ -16,6 +21,11 @@
 [submodule "etm"]
 	path = etm
 	url = https://github.com/mclements/etm
+	shallow = true
+	registered = true
+[submodule "magree"]
+	path = magree
+	url = https://github.com/cran/magree
 	shallow = true
 	registered = true
 [submodule "microsimulation"]
