@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ascii"]
 	path = ascii
 	url = https://github.com/mclements/ascii
-	shallow = true
-	registered = true
 [submodule "biostat3"]
 	path = biostat3
 	url = https://github.com/cran/biostat3
-	shallow = true
-	registered = true
 [submodule "brm"]
 	path = brm
 	url = https://github.com/mclements/brm
-	shallow = true
-	registered = true
 [submodule "etm"]
 	path = etm
 	url = https://github.com/mclements/etm
-	shallow = true
-	registered = true
 [submodule "magree"]
 	path = magree
 	url = https://github.com/cran/magree
-	shallow = true
-	registered = true
 [submodule "microsimulation"]
 	path = microsimulation
 	url = https://github.com/mclements/microsimulation
-	shallow = true
-	registered = true
 [submodule "nltm"]
 	path = nltm
 	url = https://github.com/mclements/nltm
-	shallow = true
-	registered = true
 [submodule "rstpm2"]
 	path = rstpm2
 	url = https://github.com/mclements/rstpm2
-	shallow = true
-	registered = true
