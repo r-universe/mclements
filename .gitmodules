@@ -7,7 +7,7 @@
 	url = https://github.com/mclements/ascii
 [submodule "biostat3"]
 	path = biostat3
-	url = https://github.com/cran/biostat3
+	url = https://github.com/mclements/biostat3
 [submodule "brm"]
 	path = brm
 	url = https://github.com/mclements/brm
