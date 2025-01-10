@@ -11,6 +11,9 @@
 [submodule "brm"]
 	path = brm
 	url = https://github.com/mclements/brm
+[submodule "collett"]
+	path = collett
+	url = https://github.com/mclements/collett
 [submodule "etm"]
 	path = etm
 	url = https://github.com/mclements/etm
