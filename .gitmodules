@@ -17,6 +17,9 @@
 [submodule "etm"]
 	path = etm
 	url = https://github.com/mclements/etm
+[submodule "inteq"]
+	path = inteq
+	url = https://github.com/mclements/inteq
 [submodule "lsoda"]
 	path = lsoda
 	url = https://github.com/mclements/lsoda
